@@ -1,0 +1,39 @@
+#aboutMe{
+  margin-top: 20px;
+  background-color: #ffffff;
+  padding: 30px;
+
+-webkit-box-shadow: 0px 7px 14px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow: 0px 7px 14px 0px rgba(50, 50, 50, 0.75);
+box-shadow: 0px 7px 14px 0px rgba(50, 50, 50, 0.75);
+}
+
+#aboutImages {
+  width: 100%;
+}
+
+#worklist {
+  border: none;
+}
+
+#rightmargin {
+  margin-right: 15px;
+}
+
+h6 {
+  color:#82b1ff;
+  padding-top: 17px;
+}
+
+h5{
+  color:#37474f;
+}
+
+#emphasis{
+  color:#82b1ff;
+  font-weight: bolder;
+}
+.reference{
+  padding-top: 8px;
+  font-style: oblique;
+}
